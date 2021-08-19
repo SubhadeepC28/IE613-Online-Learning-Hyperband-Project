@@ -12,7 +12,7 @@ This repository contains the final project report, the code implementation and t
 ### Contents:
 > - [Project Report](https://github.com/SubhadeepC28/IE613-Online-Learning-Hyperband-Project/blob/main/IE613_Project_Report_19i190005_19i190010_19i190011.pdf)
 > - [Project presentation](https://github.com/SubhadeepC28/IE613-Online-Learning-Hyperband-Project/blob/main/IE613_ppt.pptx)
-> - [Project Code]()
+> - [Project Code](https://github.com/SubhadeepC28/IE613-Online-Learning-Hyperband-Project/blob/main/HyperBand_MNIST.ipynb)
 
 
 ### Project Description:
